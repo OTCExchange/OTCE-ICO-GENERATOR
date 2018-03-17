@@ -9,10 +9,10 @@ Rather than generating the ABI and bytecode of ICO.sol each time time a contract
 # HOW TO DEPLOY
 Simply upload the /build folder to a webserver. No configuration is necessary.
 
-# how to play around with this yourself
+# HOW TO WORK WITH FILES
 Install truffle with webpack and cd to an empty directory
 
-# truffle init webpack
+# TRUFFLE INIT WEBPACK
 
 Copy the contents of the /app and /contracts directories in this repository to those folders in your truffle project
 
