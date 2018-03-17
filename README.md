@@ -6,13 +6,13 @@ See ICO.sol in the /contracts directory for the contract that is deployed - you 
 
 Rather than generating the ABI and bytecode of ICO.sol each time time a contract is deployed, the ABI and bytecode are simply hardcoded in the app.js file. The Web3 Javascript library is used to allow the webpage to deploy and interact with contracts.
 
-how to deploy
+# HOW TO DEPLOY
 Simply upload the /build folder to a webserver. No configuration is necessary.
 
-how to play around with this yourself
+# how to play around with this yourself
 Install truffle with webpack and cd to an empty directory
 
-truffle init webpack
+# truffle init webpack
 
 Copy the contents of the /app and /contracts directories in this repository to those folders in your truffle project
 
