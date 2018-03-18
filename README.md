@@ -34,7 +34,7 @@ The idea behind ICO Generator was to develop an automated ICO, crowdsale, coin, 
 
 We also have added the ability to work with your newly deployed ICO contract from within our web app. 
 
-# You are now able to: 
+# INTERACT WITH YOUR CONTRACT: 
 
 1. balanceOf() - returns the token balance of an address
 2. transfer() - transfers tokens to an address
