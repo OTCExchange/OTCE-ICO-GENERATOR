@@ -28,4 +28,4 @@ This will generate a /build folder that's ready to be used. To test the app on l
 
 npm run dev
 
-
+# NEW ICO GENERATOR UI
