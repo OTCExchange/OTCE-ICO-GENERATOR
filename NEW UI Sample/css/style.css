@@ -1,0 +1,333 @@
+@charset "UTF-8";
+html {
+  font-size: 2vh;
+}
+@media screen and (min-height: 800px) {
+  html {
+    font-size: 16px;
+  }
+}
+@media screen and (max-height: 500px) {
+  html {
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 600px) {
+  html {
+    font-size: 2vw;
+  }
+}
+@media screen and (max-width: 400px) {
+  html {
+    font-size: 10px;
+  }
+}
+
+body {
+  max-width: 100vw;
+  -webkit-transition: -webkit-filter 1s;
+  transition: -webkit-filter 1s;
+  transition: filter 1s;
+  transition: filter 1s, -webkit-filter 1s;
+  -webkit-filter: hue-rotate(0deg);
+          filter: hue-rotate(0deg);
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  color: white;
+  background: linear-gradient(160deg, #248f8f, #70dba6);
+  font-family: "Nunito", sans-serif;
+  font-weight: 500;
+  overflow: scroll;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  max-height: 90vh;
+  -webkit-transform: translate3d(-50%, -50%, 0);
+          transform: translate3d(-50%, -50%, 0);
+  font-size: 1rem;
+}
+
+.wrap {
+  max-width: 60vw;
+  -webkit-transition: opacity 200ms ease-out, -webkit-filter 200ms ease-out;
+  transition: opacity 200ms ease-out, -webkit-filter 200ms ease-out;
+  transition: filter 200ms ease-out, opacity 200ms ease-out;
+  transition: filter 200ms ease-out, opacity 200ms ease-out, -webkit-filter 200ms ease-out;
+}
+
+.blur {
+  -webkit-filter: blur(0.5rem);
+          filter: blur(0.5rem);
+  opacity: 0;
+  -webkit-transition: opacity 200ms ease-in, -webkit-filter 200ms ease-in;
+  transition: opacity 200ms ease-in, -webkit-filter 200ms ease-in;
+  transition: filter 200ms ease-in, opacity 200ms ease-in;
+  transition: filter 200ms ease-in, opacity 200ms ease-in, -webkit-filter 200ms ease-in;
+  pointer-events: none;
+}
+
+.question, .answer {
+  text-shadow: 0 0.1rem 0.5rem #12a17d;
+  width: 100%;
+  text-align: center;
+}
+
+.question {
+  margin-bottom: 2rem;
+  font-size: 3rem;
+}
+
+.answer {
+  font-size: 2rem;
+}
+
+.button, .round-button {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  border: none;
+  background: white;
+  border-radius: 3rem;
+  outline: none;
+  text-shadow: none;
+  color: #12a17d;
+  -webkit-box-shadow: 0 0.1rem 0.5rem #12a17d;
+          box-shadow: 0 0.1rem 0.5rem #12a17d;
+  -webkit-transition: opacity 200ms ease-out, -webkit-box-shadow 200ms, -webkit-transform 200ms, -webkit-filter 200ms ease-out;
+  transition: opacity 200ms ease-out, -webkit-box-shadow 200ms, -webkit-transform 200ms, -webkit-filter 200ms ease-out;
+  transition: box-shadow 200ms, transform 200ms, filter 200ms ease-out, opacity 200ms ease-out;
+  transition: box-shadow 200ms, transform 200ms, filter 200ms ease-out, opacity 200ms ease-out, -webkit-box-shadow 200ms, -webkit-transform 200ms, -webkit-filter 200ms ease-out;
+  -webkit-transform: perspective(15rem);
+          transform: perspective(15rem);
+  cursor: pointer;
+  font-family: "Nunito", sans-serif;
+}
+.button:hover:not(:active), .button:focus:not(:active), .round-button:hover:not(:active), .round-button:focus:not(:active) {
+  -webkit-box-shadow: 0 0.3rem 1rem rgba(18, 161, 125, 0.5);
+          box-shadow: 0 0.3rem 1rem rgba(18, 161, 125, 0.5);
+  -webkit-transform: perspective(15rem) translateZ(1rem);
+          transform: perspective(15rem) translateZ(1rem);
+}
+
+.round-button {
+  height: 3rem;
+  width: 3rem;
+  cursor: pointer;
+  font-size: 1.2rem;
+  line-height: 0.85;
+}
+
+.button {
+  padding: 1rem 2rem;
+  font-weight: 600;
+  margin: 1rem;
+  display: inline-block;
+}
+
+#back:before, .next:before {
+  content: '➜';
+}
+#back:after, .next:after {
+  content: 'BACK';
+  position: absolute;
+  color: white;
+  font-size: 0.8rem;
+  font-weight: 100;
+  top: 120%;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  opacity: 0.5;
+  text-shadow: 0 0.1rem 0.5rem #12a17d;
+  -webkit-transition: opacity 200ms, -webkit-box-shadow 200ms;
+  transition: opacity 200ms, -webkit-box-shadow 200ms;
+  transition: box-shadow 200ms, opacity 200ms;
+  transition: box-shadow 200ms, opacity 200ms, -webkit-box-shadow 200ms;
+  letter-spacing: 0.1em;
+}
+#back:hover:after, .next:hover:after {
+  text-shadow: 0 0.3rem 1rem rgba(18, 161, 125, 0.5);
+  opacity: 1;
+}
+
+#back {
+  position: fixed;
+  top: 10%;
+  left: 10%;
+}
+#back:before {
+  position: relative;
+  display: inline-block;
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.next {
+  display: block;
+  margin: 2rem 0 0 auto;
+  font-size: 1.2rem;
+}
+.next:before {
+  content: ' ➜';
+}
+.next:after {
+  content: 'NEXT';
+}
+
+.add {
+  font-size: 1rem;
+}
+
+#confirm {
+  display: block;
+  margin: 3rem auto 10rem;
+  font-size: 2rem;
+}
+
+.remaining {
+  font-weight: 100;
+  position: absolute;
+  bottom: 10%;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  opacity: 0.6;
+  -webkit-transition: opacity 200ms ease-out, -webkit-filter 200ms ease-out;
+  transition: opacity 200ms ease-out, -webkit-filter 200ms ease-out;
+  transition: filter 200ms ease-out, opacity 200ms ease-out;
+  transition: filter 200ms ease-out, opacity 200ms ease-out, -webkit-filter 200ms ease-out;
+}
+
+.review-left {
+  width: 50%;
+  text-align: right;
+  display: inline-block;
+}
+
+.review-right {
+  display: inline-block;
+  width: 30%;
+  margin-left: 5%;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  border: none;
+  background: transparent;
+  outline: none;
+  border-bottom: 2px solid white;
+  color: white;
+}
+
+.radio {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  width: 0;
+}
+.radio + label {
+  margin: 0;
+  border-radius: 0;
+}
+.radio + label:nth-child(2) {
+  border-radius: 5rem 0 0 5rem;
+  -webkit-transform-origin: 100% 50%;
+          transform-origin: 100% 50%;
+}
+.radio + label:nth-last-child(1) {
+  border-radius: 0 5rem  5rem 0;
+  -webkit-transform-origin: 0% 50%;
+          transform-origin: 0% 50%;
+}
+.radio:focus + .button:not(:active) {
+  -webkit-box-shadow: 0 0.3rem 1rem rgba(18, 161, 125, 0.5);
+          box-shadow: 0 0.3rem 1rem rgba(18, 161, 125, 0.5);
+  -webkit-transform: perspective(15rem) translateZ(1rem);
+          transform: perspective(15rem) translateZ(1rem);
+}
+
+.checkbox {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  width: 0;
+}
+.checkbox + label {
+  cursor: pointer;
+  background: transparent;
+  color: white;
+  border: 2px solid white;
+  -webkit-transition: background 200ms, color 200ms, -webkit-box-shadow 200ms, -webkit-transform 200ms;
+  transition: background 200ms, color 200ms, -webkit-box-shadow 200ms, -webkit-transform 200ms;
+  transition: background 200ms, color 200ms, box-shadow 200ms, transform 200ms;
+  transition: background 200ms, color 200ms, box-shadow 200ms, transform 200ms, -webkit-box-shadow 200ms, -webkit-transform 200ms;
+}
+.checkbox + label:hover, .checkbox:focus + label {
+  -webkit-box-shadow: 0 0.3rem 1rem rgba(18, 161, 125, 0.5);
+          box-shadow: 0 0.3rem 1rem rgba(18, 161, 125, 0.5);
+  -webkit-transform: perspective(15rem) translateZ(1rem);
+          transform: perspective(15rem) translateZ(1rem);
+}
+.checkbox:checked + label {
+  background: white;
+  color: #12a17d;
+  -webkit-box-shadow: 0 0.3rem 1rem rgba(18, 161, 125, 0.5);
+          box-shadow: 0 0.3rem 1rem rgba(18, 161, 125, 0.5);
+  -webkit-transform: perspective(15rem) translateZ(1rem);
+          transform: perspective(15rem) translateZ(1rem);
+}
+
+.list {
+  display: inline-block;
+  margin: 1rem auto;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  text-align: center;
+  border: none;
+  background: transparent;
+  outline: none;
+  border-bottom: 2px solid white;
+  color: white;
+  width: 25rem;
+}
+
+.remove {
+  background: transparent;
+  color: white;
+  border: 2px solid white;
+  margin-left: 2rem;
+  margin-right: -5rem;
+}
+
+.textarea {
+  resize: none;
+  padding: 2rem;
+  font-size: 2rem;
+  font-family: "Nunito", sans-serif;
+  border: none;
+  background: transparent;
+  color: white;
+  outline: none;
+  border-bottom: 2px solid white;
+  width: 20rem;
+  height: auto;
+}
+
+.sig {
+  position: fixed;
+  bottom: 8px;
+  right: 8px;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 100;
+  font-family: sans-serif;
+  color: rgba(255, 255, 255, 0.6);
+  letter-spacing: 2px;
+}
