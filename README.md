@@ -29,3 +29,5 @@ This will generate a /build folder that's ready to be used. To test the app on l
 npm run dev
 
 # NEW ICO GENERATOR UI
+
+The idea behind ICO Generator was to develop a automated ICO, crowdsale, coin, token smart contract deployment platform that can be deployed by someone with no prior coding experience what so ever. The ICO Generator walks you through the process with a Q&A step by step UI while additionally providing helpful, easy to understand insight support each step of the way.
