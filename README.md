@@ -30,4 +30,20 @@ npm run dev
 
 # NEW ICO GENERATOR UI
 
-The idea behind ICO Generator was to develop a automated ICO, crowdsale, coin, token smart contract deployment platform that can be deployed by someone with no prior coding experience what so ever. The ICO Generator walks you through the process with a Q&A step by step UI while additionally providing helpful, easy to understand insight support each step of the way.
+The idea behind ICO Generator was to develop an automated ICO, crowdsale, coin, token smart contract deployment platform that can be used by someone with no prior coding experience what so ever. The ICO Generator walks you through the process with a Q&A step by step UI while additionally providing helpful, easy to understand insight support each step of the way.
+
+We also have added the ability to work with your newly deployed ICO contract from within our web app. 
+
+# You are now able to: 
+
+1. balanceOf() - returns the token balance of an address
+2. transfer() - transfers tokens to an address
+3. transferFrom() - transfers tokens to an address from an address other than
+your own (requires approve() to have been called from whoever's account you're transferring tokens from)
+4. approve() - approves someone else to spend a certain amount of your tokens
+5. allowance() - check how many tokens an account is allowed to spend from another account
+
+As a part of the new UI introduction to ICO Generator V2.0 we have improved the user site experience with a smoother usability flow. *(see flow chart below). 
+
+# UI Flow Chart & Screenshots
+
