@@ -1,4 +1,4 @@
-# OTC UNITY / ICO-CREATOR Https://otcexchange.info
+# ICO GENERATOR Https://otcexchange.info
 
 For a live demo, see https://otcexchange.info. This simple app allows anyone with an Ethereum account and some Ether to deploy their own crowdsale contract with no coding knowledge (the user only enters some basic information such as their token name and symbol, and their crowdsale contract is deployed on the Ethereum network). 
 
