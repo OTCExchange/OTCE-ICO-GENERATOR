@@ -45,5 +45,8 @@ your own (requires approve() to have been called from whoever's account you're t
 
 As a part of the new UI introduction to ICO Generator V2.0 we have improved the user site experience with a smoother usability flow. *(see flow chart below). 
 
-# UI Flow Chart & Screenshots
+# UI FLOW CHART & SCREENSHOTS
+
+![Alt text](https://github.com/OTCExchange/OTCE-ICO-CREATOR/blob/master/README%20IMGS/ICO-USER-FLOW.png?raw=true "OTC ICO GENERATOR UI FLOW CHART")
+
 
