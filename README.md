@@ -49,4 +49,12 @@ As a part of the new UI introduction to ICO Generator V2.0 we have improved the 
 
 ![Alt text](https://github.com/OTCExchange/OTCE-ICO-CREATOR/blob/master/README%20IMGS/ICO-USER-FLOW.png?raw=true "OTC ICO GENERATOR UI FLOW CHART")
 
+![Alt text](https://github.com/OTCExchange/OTCE-ICO-GENERATOR/blob/master/README%20IMGS/screen1.png?raw=true "OTC ICO GENERATOR UI FLOW CHART")
+
+![Alt text](https://github.com/OTCExchange/OTCE-ICO-GENERATOR/blob/master/README%20IMGS/screen2.png?raw=true "OTC ICO GENERATOR UI FLOW CHART")
+
+![Alt text](https://github.com/OTCExchange/OTCE-ICO-GENERATOR/blob/master/README%20IMGS/screen3.png?raw=true "OTC ICO GENERATOR UI FLOW CHART")
+
+![Alt text](https://github.com/OTCExchange/OTCE-ICO-GENERATOR/blob/master/README%20IMGS/screen4.png?raw=true "OTC ICO GENERATOR UI FLOW CHART")
+
 
