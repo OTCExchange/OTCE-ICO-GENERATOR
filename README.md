@@ -8,7 +8,7 @@ Rather than generating the ABI and bytecode of ICO.sol each time time a contract
 
 # UPDATES
 
-March 21st 2018 - Just finished the coding for V2.0, the new UI is still a little buggy and running into a few issues with the system distinguishing between ethereum / metamask networks (ie) mainnet vs. testnets. Should have the bugs worked out and a stable BETA up for everyone before the weekend.  
++ March 21st 2018 - Just finished the coding for V2.0, the new UI is still a little buggy and running into a few issues with the system distinguishing between ethereum / metamask networks (ie) mainnet vs. testnets. Should have the bugs worked out and a stable BETA up for everyone before the weekend.  
 
 # HOW TO DEPLOY
 
