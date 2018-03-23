@@ -8,13 +8,13 @@ Rather than generating the ABI and bytecode of ICO.sol each time time a contract
 
 ## UPDATES
 
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)  March 23rd 2018 - ICO Contract Generator V2.0.0 RC-1 is now live! Https://otcexchange.info We have also included in-site support and we are working on release and FAQ documents. 
+March 23rd 2018 - ICO Contract Generator V2.0.0 RC-1 is now live! Https://otcexchange.info We have also included in-site support and we are working on release and FAQ documents. 
 
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)  March 21st 2018 - Just finished the coding for V2.0, the new UI is still a little buggy and running into a few issues with the system distinguishing between ethereum / metamask networks (ie) mainnet vs. testnets. Should have the bugs worked out and a stable BETA up for everyone before the weekend.  
+March 21st 2018 - Just finished the coding for V2.0, the new UI is still a little buggy and running into a few issues with the system distinguishing between ethereum / metamask networks (ie) mainnet vs. testnets. Should have the bugs worked out and a stable BETA up for everyone before the weekend.  
 
 ## NEW ICO GENERATOR UI
 
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)  The idea behind ICO Generator was to develop an automated ICO, crowdsale, coin, token smart contract deployment platform that can be used by someone with no prior coding experience what so ever. The ICO Generator walks you through the process with a Q&A step by step UI while additionally providing helpful, easy to understand insight support each step of the way.
+The idea behind ICO Generator was to develop an automated ICO, crowdsale, coin, token smart contract deployment platform that can be used by someone with no prior coding experience what so ever. The ICO Generator walks you through the process with a Q&A step by step UI while additionally providing helpful, easy to understand insight support each step of the way.
 
 We also have added the ability to work with your newly deployed ICO contract from within our web app. 
 
@@ -51,7 +51,7 @@ your own (requires approve() to have been called from whoever's account you're t
 - approve() - approves someone else to spend a certain amount of your tokens
 - allowance() - check how many tokens an account is allowed to spend from another account
 
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)  As a part of the new UI introduction to ICO Generator V2.0 we have improved the user site experience with a smoother usability flow. *(see flow chart below). 
+As a part of the new UI introduction to ICO Generator V2.0 we have improved the user site experience with a smoother usability flow. *(see flow chart below). 
 
 ## UI FLOW CHART & SCREENSHOTS
 
