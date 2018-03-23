@@ -6,15 +6,15 @@ See ICO.sol in the /contracts directory for the contract that is deployed - you 
 
 Rather than generating the ABI and bytecode of ICO.sol each time time a contract is deployed, the ABI and bytecode are simply hardcoded in the app.js file. The Web3 Javascript library is used to allow the webpage to deploy and interact with contracts.
 
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+) ## UPDATES
+## UPDATES
 
-March 23rd 2018 - ICO Contract Generator V2.0.0 RC-1 is now live! Https://otcexchange.info We have also included in-site support and we are working on release and FAQ documents. 
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)  March 23rd 2018 - ICO Contract Generator V2.0.0 RC-1 is now live! Https://otcexchange.info We have also included in-site support and we are working on release and FAQ documents. 
 
-March 21st 2018 - Just finished the coding for V2.0, the new UI is still a little buggy and running into a few issues with the system distinguishing between ethereum / metamask networks (ie) mainnet vs. testnets. Should have the bugs worked out and a stable BETA up for everyone before the weekend.  
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)  March 21st 2018 - Just finished the coding for V2.0, the new UI is still a little buggy and running into a few issues with the system distinguishing between ethereum / metamask networks (ie) mainnet vs. testnets. Should have the bugs worked out and a stable BETA up for everyone before the weekend.  
 
 ## NEW ICO GENERATOR UI
 
-The idea behind ICO Generator was to develop an automated ICO, crowdsale, coin, token smart contract deployment platform that can be used by someone with no prior coding experience what so ever. The ICO Generator walks you through the process with a Q&A step by step UI while additionally providing helpful, easy to understand insight support each step of the way.
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)  The idea behind ICO Generator was to develop an automated ICO, crowdsale, coin, token smart contract deployment platform that can be used by someone with no prior coding experience what so ever. The ICO Generator walks you through the process with a Q&A step by step UI while additionally providing helpful, easy to understand insight support each step of the way.
 
 We also have added the ability to work with your newly deployed ICO contract from within our web app. 
 
