@@ -44,14 +44,14 @@ npm run dev
 
 ## INTERACT WITH YOUR CONTRACT: 
 
-1. balanceOf() - returns the token balance of an address
-2. transfer() - transfers tokens to an address
-3. transferFrom() - transfers tokens to an address from an address other than
+- balanceOf() - returns the token balance of an address
+- transfer() - transfers tokens to an address
+- transferFrom() - transfers tokens to an address from an address other than
 your own (requires approve() to have been called from whoever's account you're transferring tokens from)
-4. approve() - approves someone else to spend a certain amount of your tokens
-5. allowance() - check how many tokens an account is allowed to spend from another account
+- approve() - approves someone else to spend a certain amount of your tokens
+- allowance() - check how many tokens an account is allowed to spend from another account
 
-As a part of the new UI introduction to ICO Generator V2.0 we have improved the user site experience with a smoother usability flow. *(see flow chart below). 
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)  As a part of the new UI introduction to ICO Generator V2.0 we have improved the user site experience with a smoother usability flow. *(see flow chart below). 
 
 ## UI FLOW CHART & SCREENSHOTS
 
