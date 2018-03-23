@@ -6,21 +6,27 @@ See ICO.sol in the /contracts directory for the contract that is deployed - you 
 
 Rather than generating the ABI and bytecode of ICO.sol each time time a contract is deployed, the ABI and bytecode are simply hardcoded in the app.js file. The Web3 Javascript library is used to allow the webpage to deploy and interact with contracts.
 
-# UPDATES
+## UPDATES
 
 March 23rd 2018 - ICO Contract Generator V2.0.0 RC-1 is now live! Https://otcexchange.info We have also included in-site support and we are working on release and FAQ documents. 
 
 March 21st 2018 - Just finished the coding for V2.0, the new UI is still a little buggy and running into a few issues with the system distinguishing between ethereum / metamask networks (ie) mainnet vs. testnets. Should have the bugs worked out and a stable BETA up for everyone before the weekend.  
 
+## NEW ICO GENERATOR UI
+
+The idea behind ICO Generator was to develop an automated ICO, crowdsale, coin, token smart contract deployment platform that can be used by someone with no prior coding experience what so ever. The ICO Generator walks you through the process with a Q&A step by step UI while additionally providing helpful, easy to understand insight support each step of the way.
+
+We also have added the ability to work with your newly deployed ICO contract from within our web app. 
+
 # HOW TO DEPLOY
 
 Simply upload the /build folder to a webserver. No configuration is necessary.
 
-# HOW TO WORK WITH FILES
+## HOW TO WORK WITH FILES
 
 Install truffle with webpack and cd to an empty directory
 
-# TRUFFLE INIT WEBPACK
+## TRUFFLE INIT WEBPACK
 
 Copy the contents of the /app and /contracts directories in this repository to those folders in your truffle project
 
@@ -36,12 +42,6 @@ This will generate a /build folder that's ready to be used. To test the app on l
 
 npm run dev
 
-# NEW ICO GENERATOR UI
-
-The idea behind ICO Generator was to develop an automated ICO, crowdsale, coin, token smart contract deployment platform that can be used by someone with no prior coding experience what so ever. The ICO Generator walks you through the process with a Q&A step by step UI while additionally providing helpful, easy to understand insight support each step of the way.
-
-We also have added the ability to work with your newly deployed ICO contract from within our web app. 
-
 # INTERACT WITH YOUR CONTRACT: 
 
 1. balanceOf() - returns the token balance of an address
@@ -53,7 +53,7 @@ your own (requires approve() to have been called from whoever's account you're t
 
 As a part of the new UI introduction to ICO Generator V2.0 we have improved the user site experience with a smoother usability flow. *(see flow chart below). 
 
-# UI FLOW CHART & SCREENSHOTS
+## UI FLOW CHART & SCREENSHOTS
 
 ![Alt text](https://github.com/OTCExchange/OTCE-ICO-CREATOR/blob/master/README%20IMGS/ICO-USER-FLOW.png?raw=true "OTC ICO GENERATOR UI FLOW CHART")
 
