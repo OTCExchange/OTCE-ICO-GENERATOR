@@ -18,7 +18,7 @@ The idea behind ICO Generator was to develop an automated ICO, crowdsale, coin, 
 
 We also have added the ability to work with your newly deployed ICO contract from within our web app. 
 
-# HOW TO DEPLOY
+## HOW TO DEPLOY
 
 Simply upload the /build folder to a webserver. No configuration is necessary.
 
@@ -42,7 +42,7 @@ This will generate a /build folder that's ready to be used. To test the app on l
 
 npm run dev
 
-# INTERACT WITH YOUR CONTRACT: 
+## INTERACT WITH YOUR CONTRACT: 
 
 1. balanceOf() - returns the token balance of an address
 2. transfer() - transfers tokens to an address
