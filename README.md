@@ -6,7 +6,7 @@ See ICO.sol in the /contracts directory for the contract that is deployed - you 
 
 Rather than generating the ABI and bytecode of ICO.sol each time time a contract is deployed, the ABI and bytecode are simply hardcoded in the app.js file. The Web3 Javascript library is used to allow the webpage to deploy and interact with contracts.
 
-## UPDATES
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+) ## UPDATES
 
 March 23rd 2018 - ICO Contract Generator V2.0.0 RC-1 is now live! Https://otcexchange.info We have also included in-site support and we are working on release and FAQ documents. 
 
