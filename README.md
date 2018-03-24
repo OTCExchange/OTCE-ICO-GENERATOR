@@ -113,7 +113,7 @@ As a part of the new UI introduction to ICO Generator V2.0 we have improved the 
 
 ![Alt text](https://github.com/OTCExchange/OTCE-ICO-GENERATOR/blob/master/README%20IMGS/screen5.png?raw=true "OTC ICO GENERATOR UI SCREEN 5")
 
-## NOTICE TO ALL USERS, BUYERS AND PARTICIPANTS
+## NOTICE TO ALL DEVELOPERS, PARTICIPANTS AND USERS
 
 The Smart Contract System concept, the underlying software application and software platform (i.e. the Ethereum blockchain), is still in an early development stage and unproven. There is no warranty or assurance that the process for creating Tokens will be uninterrupted or error-free and there is an inherent risk that the software could contain defects, weaknesses, vulnerabilities, viruses or bugs causing, inter alia, the complete loss of ETH contributions and/or Tokens. Additionally, there are other risks associated with your acquisition, storage, transfer and use of Tokens, including those that OTCE may not be able to anticipate. Such risks may further materialize as unanticipated variations or combinations of the risks set out in the Contribution terms.
 
