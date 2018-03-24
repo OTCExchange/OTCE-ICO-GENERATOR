@@ -42,7 +42,7 @@ March 23rd 2018 - ICO Contract Generator V2.0.0 RC-1 is now live! https://otcexc
 
 March 21st 2018 - Just finished the code clean up for V2.0.0 RC-1, the new UI is still a little buggy and running into a few issues with the system distinguishing between ethereum / metamask networks (ie) mainnet vs. testnets. Should have the bugs worked out and a stable BETA up for everyone before the weekend.  
 
-NEW ICO GENERATOR UI - The idea behind ICO Generator was to develop an automated ICO, crowdsale, coin, token smart contract deployment platform that can be used by someone with no prior coding experience what so ever. The ICO Generator walks you through the process with a Q&A step by step UI while additionally providing helpful, easy to understand insight support each step of the way. We also have added the ability to work with your newly deployed ICO contract from within our web app.
+NEW ICO GENERATOR UI - The original idea behind the ICO Generator was to provide an automated ICO, crowdsale, coin, token smart contract deployment platform that can be used by someone with no prior coding experience what so ever. The ICO Generator walks you through the process with a Q&A step by step UI while additionally providing helpful, easy to understand insight support each step of the way. We also have added the ability to work with your newly deployed ICO contract from within our web app.
 
 ## USER SYSTEM REQUIREMENTS
 
