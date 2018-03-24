@@ -52,9 +52,9 @@ NEW ICO GENERATOR UI - The original idea behind the ICO Generator was to provide
 
 - You must be connected to one of the "Test Networks" or the "Main Network" : [Please watch the metamask video](https://www.youtube.com/watch?time_continue=34&v=6Gf_kRE4MJU)
 
-- We suggest you connect to the "Rinkby Test Network" and test your contract first (cost nothing to test)
+- We suggest you connect to the "Ropsten Test Network" and test your contract first (cost nothing to test)
 
-- You will need to get some "Test Ether" to test your "Test Contract"
+- You will need to get some ["Test Ether" to test your "Test Contract"](https://blog.bankex.org/how-to-buy-ethereum-using-metamask-ccea0703daec)
 
 - After you test your contract then you can connect to the "Main Network" and deploy your final contract
 
