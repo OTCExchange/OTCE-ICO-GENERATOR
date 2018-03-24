@@ -26,21 +26,21 @@ Create an [ERC-20](https://theethereum.wiki/w/index.php/ERC20_Token_Standard) to
 
 Compile a token crowdfund contract in just a handful of clicks. What is typically a four- to six-week endeavor is simplified into a single-sitting at the computer with the ICO Generator platform. Develop ment should not be the main preoccupation of a blockchain project; planning and designing the business model for what lies ahead should be.
 
+## ADDITIONAL ICO GENERATOR SUPPORT
+
+Support is currently available through our ICO Generator Site located at https://otcexchange.info by clicking on the support button in the bottom right hand corner of the page.
+
 ## WHATS NEXT
 
 The ICO Generator platform will be expanding smart contract options offered to users with a fully-formed suite of templates to choose from. Version 1.0.0 of the platform was made available as of Oct. 1st, 2017 with an updated version 2.0.0 of the platform released in March 2018.
 
-From SEC compliant securities to peer-to-peer wagering, supply chain management, real estate agreements, insurance and more, the ICO Generator platform will offer a wide selection of smart contracts that will range across multiple industries. The OTC ICO Network is powered by the use of its in-app currency, OTCE to run the OTC ICO Platform Network, the platform boast several additional featured services and tools, OTC Coindex, Crypto Directory and the ICO DB. A full list of current and future service can be found at our 
-
-## ADDITIONAL ICO GENERATOR SUPPORT
-
-Support is currently available through our ICO Generator Site located at https://otcexchange.info by clicking on the support button in the bottom right hand corner of the page.
+From SEC compliant securities to peer-to-peer wagering, supply chain management, real estate agreements, insurance and more, the ICO Generator platform will offer a wide selection of smart contracts that will range across multiple industries. The OTC ICO Network is powered by the use of its in-app currency, OTCE to run the OTC ICO Platform Network, the platform boast several additional featured services and tools, [OTC Coindex]{https://otcexchange.trade}, [Crypto Directory](https://otcexchange.biz) and the ICO DB. A full list of current and future service can be found at our [corporate website](https://otcexchange.company). 
 
 ## LATEST DEVELOPMENT UPDATES
 
 March 23rd 2018 - ICO Contract Generator V2.0.0 RC-1 is now live! https://otcexchange.info We have also included in-site support and we are working on release and FAQ documents. 
 
-March 21st 2018 - Just finished the coding for V2.0, the new UI is still a little buggy and running into a few issues with the system distinguishing between ethereum / metamask networks (ie) mainnet vs. testnets. Should have the bugs worked out and a stable BETA up for everyone before the weekend.  
+March 21st 2018 - Just finished the code clean up for V2.0.0 RC-1, the new UI is still a little buggy and running into a few issues with the system distinguishing between ethereum / metamask networks (ie) mainnet vs. testnets. Should have the bugs worked out and a stable BETA up for everyone before the weekend.  
 
 NEW ICO GENERATOR UI - The idea behind ICO Generator was to develop an automated ICO, crowdsale, coin, token smart contract deployment platform that can be used by someone with no prior coding experience what so ever. The ICO Generator walks you through the process with a Q&A step by step UI while additionally providing helpful, easy to understand insight support each step of the way. We also have added the ability to work with your newly deployed ICO contract from within our web app.
 
