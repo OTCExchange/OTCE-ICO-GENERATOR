@@ -12,7 +12,7 @@ Nevertheless, accessibility to smart contract creation is upon us. The [OTCE ICO
 
 ICO Generator is, at its core, a smart contract creation tool that will allow any user to create an executable smart contract on the Ethereum blockchain. In effect, the ICO Generator platform will enable anyone, even those without any programming or coding experience, to harness the power of distributed computing by making smart contract creation as simple as filling out an online form.
 
-The early 2.0.0 version of the platform includes an escrow contract, a token creation contract and a crowdfund contract for users to test and deploy. Once you have deployed a "LIVE" contract there are some additional feature that you can do to work with your contract in this platform: 
+The early 2.0.0 version of the platform includes an escrow contract, a token creation contract and a crowdfund contract for users to test and deploy. Once you have deployed a "LIVE" contract there are some additional feature that you can do to work with your contract in the ICO Generator web platform: 
 
 ## ESCROW
 
