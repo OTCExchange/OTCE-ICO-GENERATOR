@@ -44,7 +44,7 @@ March 21st 2018 - Just finished the coding for V2.0, the new UI is still a littl
 
 NEW ICO GENERATOR UI - The idea behind ICO Generator was to develop an automated ICO, crowdsale, coin, token smart contract deployment platform that can be used by someone with no prior coding experience what so ever. The ICO Generator walks you through the process with a Q&A step by step UI while additionally providing helpful, easy to understand insight support each step of the way. We also have added the ability to work with your newly deployed ICO contract from within our web app.
 
-## SYSTEM REQUIREMENTS
+## USER SYSTEM REQUIREMENTS
 
 - You must have [Metamask](https://metamask.io/) installed, tested with the [Chrome, Firefox, and Opera Extention](https://chrome.google.com/webstore/detail/nkbihfbeogaeaoehlefnkodbefgpgknn).
 
@@ -68,7 +68,7 @@ See ICO.sol in the /contracts directory for the contract that is deployed - you 
 
 Rather than generating the ABI and bytecode of ICO.sol each time time a contract is deployed, the ABI and bytecode are simply hardcoded in the app.js file. The Web3 Javascript library is used to allow the webpage to deploy and interact with contracts.
 
-## HOW TO WORK WITH OUR FILES
+## DEVELOPERS: HOW TO WORK WITH OUR PLATFORM FILES
 
 Install truffle with webpack and cd to an empty directory
 
