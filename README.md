@@ -103,12 +103,18 @@ As a part of the new UI introduction to ICO Generator V2.0 we have improved the 
 
 ![Alt text](https://github.com/OTCExchange/OTCE-ICO-CREATOR/blob/master/README%20IMGS/ICO-USER-FLOW.png?raw=true "OTC ICO GENERATOR UI FLOW CHART")
 
-![Alt text](https://github.com/OTCExchange/OTCE-ICO-GENERATOR/blob/master/README%20IMGS/screen1.png?raw=true "OTC ICO GENERATOR UI FLOW CHART")
+![Alt text](https://github.com/OTCExchange/OTCE-ICO-GENERATOR/blob/master/README%20IMGS/screen1.png?raw=true "OTC ICO GENERATOR UI SCREEN 1")
 
-![Alt text](https://github.com/OTCExchange/OTCE-ICO-GENERATOR/blob/master/README%20IMGS/screen2.png?raw=true "OTC ICO GENERATOR UI FLOW CHART")
+![Alt text](https://github.com/OTCExchange/OTCE-ICO-GENERATOR/blob/master/README%20IMGS/screen2.png?raw=true "OTC ICO GENERATOR UI SCREEN 2")
 
-![Alt text](https://github.com/OTCExchange/OTCE-ICO-GENERATOR/blob/master/README%20IMGS/screen3.png?raw=true "OTC ICO GENERATOR UI FLOW CHART")
+![Alt text](https://github.com/OTCExchange/OTCE-ICO-GENERATOR/blob/master/README%20IMGS/screen3.png?raw=true "OTC ICO GENERATOR UI SCREEN 3")
 
-![Alt text](https://github.com/OTCExchange/OTCE-ICO-GENERATOR/blob/master/README%20IMGS/screen4.png?raw=true "OTC ICO GENERATOR UI FLOW CHART")
+![Alt text](https://github.com/OTCExchange/OTCE-ICO-GENERATOR/blob/master/README%20IMGS/screen4.png?raw=true "OTC ICO GENERATOR UI SCREEN 4")
 
-![Alt text](https://github.com/OTCExchange/OTCE-ICO-GENERATOR/blob/master/README%20IMGS/screen5.png?raw=true "OTC ICO GENERATOR UI FLOW CHART")
+![Alt text](https://github.com/OTCExchange/OTCE-ICO-GENERATOR/blob/master/README%20IMGS/screen5.png?raw=true "OTC ICO GENERATOR UI SCREEN 5")
+
+## NOTICE TO ALL USERS, BUYERS AND PARTICIPANTS
+
+The Smart Contract System concept, the underlying software application and software platform (i.e. the Ethereum blockchain), is still in an early development stage and unproven. There is no warranty or assurance that the process for creating Tokens will be uninterrupted or error-free and there is an inherent risk that the software could contain defects, weaknesses, vulnerabilities, viruses or bugs causing, inter alia, the complete loss of ETH contributions and/or Tokens. Additionally, there are other risks associated with your acquisition, storage, transfer and use of Tokens, including those that OTCE may not be able to anticipate. Such risks may further materialize as unanticipated variations or combinations of the risks set out in the Contribution terms.
+
+Blockchain technology allows new forms of interaction and it is possible that certain jurisdictions will apply existing regulations on, or introduce new regulations addressing, blockchain technology based applications, which may be contrary to the current setup of the Smart Contract System and which may, inter alia, result in substantial modifications of the Smart Contract System, including its termination and the loss of OTCE Tokens. Further, it is the users responsibly to ensure that his engagement on this website and with ETH contributions and/or Tokens is not in contravention of any law and legislation in the jurisdiction in which he resides.
