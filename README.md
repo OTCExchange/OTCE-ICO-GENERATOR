@@ -8,7 +8,7 @@ The problem, however, is the complexity of writing a smart contract. Smart contr
 
 A Deloitte survey conducted this year indicated, “Nearly 40 percent of surveyed senior executives still have little or no knowledge about blockchain, while other executives place it among their company’s highest priorities for 2017.”
 
-Nevertheless, accessibility to smart contract creation is upon us. The OTCE ICO platform, currently nearing the end of its OTCE R-1 token crowdsale, is to smart contract creation what WordPress or Squarespace is to web development.
+Nevertheless, accessibility to smart contract creation is upon us. The [OTCE ICO platform](https://otcexchange.company), currently nearing the end of its [OTCE R-1 token crowdsale](https://otcexchange.company/token/), is to smart contract creation what WordPress or Squarespace is to web development.
 
 ICO Generator is, at its core, a smart contract creation tool that will allow any user to create an executable smart contract on the Ethereum blockchain. In effect, the ICO Generator platform will enable anyone, even those without any programming or coding experience, to harness the power of distributed computing by making smart contract creation as simple as filling out an online form.
 
