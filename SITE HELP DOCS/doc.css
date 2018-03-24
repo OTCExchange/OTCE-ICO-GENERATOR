@@ -1,0 +1,29 @@
+body {
+	background: #eee;
+}
+
+hr {
+  -moz-border-bottom-colors: none;
+  -moz-border-image: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-color: #EEEEEE -moz-use-text-color #FFFFFF;
+  border-style: solid none;
+  border-width: 1px 0;
+  margin: 18px 0;
+}
+
+.navbar-inverse {
+    background-color: #fff;
+    border-color: #fff;
+    padding: 15px;
+}
+.btn-danger {
+    color: #fff;
+    background-color: #D22B23;
+    border-color: #D22B23;
+    border-radius: 210px;
+    padding: 7px 20px;
+}
+
