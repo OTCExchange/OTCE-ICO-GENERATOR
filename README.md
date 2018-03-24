@@ -1,4 +1,4 @@
-# ICO GENERATOR PLATFORM OVERVIEW
+# ICO GENERATOR 2.0.0 PLATFORM OVERVIEW
 
 For a live demo, see https://otcexchange.info. This simple app allows anyone with an Ethereum account and some Ether to deploy their own crowdsale contract with no coding knowledge. The user only enters some basic information such as their token name and symbol, and their crowdsale contract is deployed on the [Ethereum network](https://www.ethereum.org/).
 
