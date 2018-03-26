@@ -20,16 +20,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-#### Contact
-
-##### Email Us:
-otcexchange@gmail.com
-
-###### Address:
+### Corporate Contact Information
+#### Email Us: otcexchange@gmail.com
+##### Address:
 OTC Exchange Inc.
 Plantation Dr. Suite 100
 Conroe, Texas 77303
 United States
-
-###### Phone:
+##### Phone:
 +1 (214) 799-0542
