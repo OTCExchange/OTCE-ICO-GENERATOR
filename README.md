@@ -28,13 +28,13 @@ Compile a token crowdfund contract in just a handful of clicks. What is typicall
 
 ## ADDITIONAL ICO GENERATOR SUPPORT
 
-Support is currently available through our ICO Generator Site located at https://otcexchange.info by clicking on the support button in the bottom right hand corner of the page.
+Support is currently available through our ICO Generator Site located at https://ico.otcexchange.net by clicking on the support button in the bottom right hand corner of the page.
 
 ## WHATS NEXT
 
 The ICO Generator platform will be expanding smart contract options offered to users with a fully-formed suite of templates to choose from. Version 1.0.0 of the platform was made available as of Oct. 1st, 2017 with an updated version 2.0.0 of the platform released in March 2018.
 
-The ICO Generator V3.0.0 platform will offer a wide selection of smart contracts that range across multiple industries, SEC compliant securities token offerings to peer-to-peer wagering, supply chain management, real estate agreements, insurance and many more platform enhancements. The OTC ICO Network is powered by the use of its in-app currency, OTCE Token to run the OTC ICO Platform Network, the platform boast several additional ICO featured services and tools, [OTC Coindex](https://otcexchange.trade), [Crypto Directory](https://otcexchange.biz) and the ICO DB. A full list of current and future service can be found at our [corporate website](https://otcexchange.company). 
+The ICO Generator V3.0.0 platform will offer a wide selection of smart contracts that range across multiple industries, SEC compliant securities token offerings to peer-to-peer wagering, supply chain management, real estate agreements, insurance and many more platform enhancements. The OTC ICO Network is powered by the use of its in-app currency, OTCE Token to run the OTC ICO Platform Network, the platform boast several additional ICO featured services and tools, [OTC Coindex](https://trade.otcexchange.net), [Crypto Directory](https://dir.otcexchange.net) and the ICO DB. A full list of current and future service can be found at our [corporate website](https://otcexchange.company). 
 
 ## LATEST DEVELOPMENT UPDATES
 
