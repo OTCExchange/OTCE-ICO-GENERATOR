@@ -1,6 +1,6 @@
 # ICO GENERATOR 2.0.0 PLATFORM OVERVIEW
 
-For a live demo, see https://otcexchange.info. This simple app allows anyone with an Ethereum account and some Ether to deploy their own crowdsale contract with no coding knowledge. The user only enters some basic information such as their token name and symbol, and their crowdsale contract is deployed on the [Ethereum network](https://www.ethereum.org/).
+For a live demo, see https://ico.otcexchange.net This simple app allows anyone with an Ethereum account and some Ether to deploy their own crowdsale contract with no coding knowledge. The user only enters some basic information such as their token name and symbol, and their crowdsale contract is deployed on the [Ethereum network](https://www.ethereum.org/).
 
 Blockchain technology, with the application of well-programmed smart contracts, has the capacity to significantly improve control, security and privacy over the exchange of digital assets and information.
 
@@ -38,7 +38,7 @@ The ICO Generator V3.0.0 platform will offer a wide selection of smart contracts
 
 ## LATEST DEVELOPMENT UPDATES
 
-March 23rd 2018 - ICO Contract Generator V2.0.0 RC-1 is now live! https://otcexchange.info We have also included in-site support and we are working on release and FAQ documents. 
+March 23rd 2018 - ICO Contract Generator V2.0.0 RC-1 is now live! https://ico.otcexchange.net We have also included in-site support and we are working on release and FAQ documents. 
 
 March 21st 2018 - Just finished the code clean up for V2.0.0 RC-1, the new UI is still a little buggy and running into a few issues with the system distinguishing between ethereum / metamask networks (ie) mainnet vs. testnets. Should have the bugs worked out and a stable BETA up for everyone before the weekend.  
 
